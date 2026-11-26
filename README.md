@@ -50,12 +50,12 @@ Proyek memakai Agile dengan kerangka Scrum. Pekerjaan dibagi menjadi satu tahap 
 
 | Sprint | Fokus | Paket kerja | Durasi | Status |
 |---|---|---|---|---|
-| 0 | Manajemen proyek dan inisiasi | 1.1, 1.2 | 3 hari | Selesai |
-| 1 | Product backlog dan ERD | 2.1, 2.2 | 5 hari | Berjalan |
-| 2 | Normalisasi dan pemecahan backlog | 3.1, 3.2 | 5 hari | Direncanakan |
-| 3 | UI dan back-end bagian 1 | 4.1 sampai 4.3 | 7 hari | Direncanakan |
-| 4 | UI, back-end bagian 2, dan database | 5.1 sampai 5.4 | 8 hari | Direncanakan |
-| 5 | Testing dan peluncuran | 6.1 sampai 6.4 | 7 hari | Direncanakan |
+| 0 | Manajemen proyek dan inisiasi | 1.1, 1.2 | 1 hari | Selesai |
+| 1 | Product backlog dan ERD | 2.1, 2.2 | 2 hari | Selesai |
+| 2 | Normalisasi dan pemecahan backlog | 3.1, 3.2 | 2 hari | Dikerjakan |
+| 3 | UI dan back-end bagian 1 | 4.1 sampai 4.3 | 4 hari | Direncanakan |
+| 4 | UI, back-end bagian 2, dan database | 5.1 sampai 5.4 | 4 hari | Direncanakan |
+| 5 | Testing dan peluncuran | 6.1 sampai 6.4 | 3 hari | Direncanakan |
 
 Rincian tiap paket kerja (deskripsi, SDM, alat, prasyarat) ada di dokumen perencanaan proyek.
 
